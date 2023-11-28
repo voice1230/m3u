@@ -1,0 +1,419 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 ,CHC高清电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+#EXTINF:-1 ,CHC家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+#EXTINF:-1 ,CCTV-1HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 ,CCTV-2HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 ,CCTV-3HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 ,CCTV-4HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+#EXTINF:-1 ,CCTV-5HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+#EXTINF:-1 ,CCTV5+HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+#EXTINF:-1 ,CCTV-6HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
+#EXTINF:-1 ,CCTV-7HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+#EXTINF:-1 ,CCTV-8HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
+#EXTINF:-1 ,CCTV-9HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 ,CCTV-10HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+#EXTINF:-1 ,CCTV-12HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+#EXTINF:-1 ,CCTV-14HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+#EXTINF:-1 ,CCTV-1综合
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
+#EXTINF:-1 ,CCTV-2财经
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
+#EXTINF:-1 ,CCTV-3综艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
+#EXTINF:-1 ,CCTV-4中文国际
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
+#EXTINF:-1 ,CCTV-5体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+#EXTINF:-1 ,CCTV-6电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
+#EXTINF:-1 ,CCTV-7军事农业
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
+#EXTINF:-1 ,CCTV-8电视剧
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
+#EXTINF:-1 ,CCTV-9记录
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
+#EXTINF:-1 ,CCTV-10科教
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
+#EXTINF:-1 ,CCTV-11戏曲
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
+#EXTINF:-1 ,CCTV-12社会与法
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
+#EXTINF:-1 ,CCTV-13新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+#EXTINF:-1 ,CCTV-14少儿
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
+#EXTINF:-1 ,CCTV-15音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
+#EXTINF:-1 ,CGTN-新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
+#EXTINF:-1 ,CETV-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+#EXTINF:-1 ,CETV-3
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+#EXTINF:-1 ,CETV-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+#EXTINF:-1 ,北京卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
+#EXTINF:-1 ,北京影视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+#EXTINF:-1 ,北京体育高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 ,北京新闻高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+#EXTINF:-1 ,北京纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
+#EXTINF:-1 ,北京卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
+#EXTINF:-1 ,北京文艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2
+#EXTINF:-1 ,北京科教
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv3
+#EXTINF:-1 ,北京影视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4
+#EXTINF:-1 ,北京财经
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv5
+#EXTINF:-1 ,北京体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
+#EXTINF:-1 ,北京生活
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv7
+#EXTINF:-1 ,北京青年
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv8
+#EXTINF:-1 ,北京新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9
+#EXTINF:-1 ,北京卡酷
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv10
+#EXTINF:-1 ,北京文艺高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
+#EXTINF:-1 ,安徽卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahhd
+#EXTINF:-1 ,重庆卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
+#EXTINF:-1 ,东方卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
+#EXTINF:-1 ,天津卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
+#EXTINF:-1 ,东南卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/dnhd
+#EXTINF:-1 ,江西卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
+#EXTINF:-1 ,河北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
+#EXTINF:-1 ,湖南卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
+#EXTINF:-1 ,湖北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
+#EXTINF:-1 ,辽宁卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
+#EXTINF:-1 ,四川卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/schd
+#EXTINF:-1 ,江苏卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
+#EXTINF:-1 ,浙江卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
+#EXTINF:-1 ,江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,山东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
+#EXTINF:-1 ,广东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
+#EXTINF:-1 ,深圳卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
+#EXTINF:-1 ,黑龙江卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hljhd
+#EXTINF:-1 ,上海纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+#EXTINF:-1 ,金鹰纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+#EXTINF:-1 ,全纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+#EXTINF:-1 ,CCTV-第一剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+#EXTINF:-1 ,CCTV-国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 ,CCTV-怀旧剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+#EXTINF:-1 ,CCTV-风云剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+#EXTINF:-1 ,CCTV-风云足球
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+#EXTINF:-1 ,CCTV-风云音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+#EXTINF:-1 ,CCTV-世界地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+#EXTINF:-1 ,安徽卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
+#EXTINF:-1 ,兵团卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
+#EXTINF:-1 ,重庆卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
+#EXTINF:-1 ,东方卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
+#EXTINF:-1 ,东南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
+#EXTINF:-1 ,广东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
+#EXTINF:-1 ,广西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
+#EXTINF:-1 ,甘肃卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
+#EXTINF:-1 ,贵州卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
+#EXTINF:-1 ,湖北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
+#EXTINF:-1 ,湖南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
+#EXTINF:-1 ,河北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
+#EXTINF:-1 ,河南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
+#EXTINF:-1 ,黑龙江卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
+#EXTINF:-1 ,江苏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
+#EXTINF:-1 ,江西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
+#EXTINF:-1 ,吉林卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
+#EXTINF:-1 ,辽宁卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
+#EXTINF:-1 ,内蒙古卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
+#EXTINF:-1 ,宁夏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
+#EXTINF:-1 ,青海卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
+#EXTINF:-1 ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,四川卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
+#EXTINF:-1 ,山东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
+#EXTINF:-1 ,山西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
+#EXTINF:-1 ,陕西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
+#EXTINF:-1 ,旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,山东教育
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
+#EXTINF:-1 ,中国教育-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+#EXTINF:-1 ,中国教育-3
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+#EXTINF:-1 ,中国教育-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+#EXTINF:-1 ,明珠台
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1 ,明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 ,翡翠华丽
+http://23.237.10.66:16410
+#EXTINF:-1 ,翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1 ,翡翠台
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+#EXTINF:-1 ,翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+#EXTINF:-1 ,翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 ,TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 ,TVBS欢乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 ,TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,爱尔达体育2台
+http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 ,澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+#EXTINF:-1 ,澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1 ,澳门莲花
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 ,澳门有线 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,澳门有线 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 ,澳门有线互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 ,全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黟县卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,滕王阁
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山梦笔生花
+https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山光明顶
+https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山信兴道
+https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,云台山红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山拱北石
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,千佛山
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,渔港码头
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,红山
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,棋子湾
+https://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,张家界迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,雁荡山
+https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,张家界阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,凤凰古城
+https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,凤凰古城南华山
+https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,宠村月沼
+https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,开州
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,水长城镜头三
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,水长城镜头四
+https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,滨海新区1
+https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,滨海新区2
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,井冈山
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,两江四案
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,长风商务区
+https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,张家界大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,车八岭
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,大坝镇
+https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,火星基地
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,横店影视城
+https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,胡杨林
+https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,达古冰川
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,白头叶猴保护区
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,象鼻山
+https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,广州塔
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,婺源江岭1
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,张家界将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,天涯石
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,小布达拉宫
+https://gcalic.v.myalicdn.com/gc/bsszxbdlg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,远眺山庄
+https://gcalic.v.myalicdn.com/gc/bssztt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,金山
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
